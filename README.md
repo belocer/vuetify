@@ -1,4 +1,4 @@
-# ad-project
+# Vuetify
 
 > A Vue.js project
 
